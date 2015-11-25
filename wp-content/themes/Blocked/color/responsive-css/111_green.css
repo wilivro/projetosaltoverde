@@ -1,0 +1,278 @@
+@media only screen and (max-width: 959px) {
+
+    
+
+    .slider, .slider-small {
+
+        background: url(../../images/color-variations/green/sprites.png) no-repeat;
+
+        background-position: -2150px 0px;
+
+    }
+        
+    div.quote-right {
+
+        margin: 0 0 30px 10px;
+        padding: 0px 0 0px 50px;
+        float: right;
+        width: 160px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/articlePatern.png) repeat-y, url(../../images/color-variations/green/quoteLight.png) no-repeat;
+        background-position: left, 20px 0;
+
+    }
+
+    .blog div.quote-right, 
+    .content div.quote-right {
+
+        margin: 5px 0 30px 0;
+
+        padding: 5px 0 5px 45px !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: right;
+
+        width: 295px;
+
+    }
+
+    div.quote-left {
+
+        margin: 0 0 30px 0;
+        padding: 0px 50px 0px 0;
+        float: left;
+        width: 160px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/articlePatern.png) repeat-y, url(../../images/color-variations/green/quoteLight.png) no-repeat;
+        background-position: right, 160px 0;
+
+    }
+    
+    
+    .blog div.quote-left, 
+    .content div.quote-left {
+
+        margin: 5px 25px 30px 0;
+
+        padding: 0 45px 0 0 !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: left;
+
+        width: 295px;
+
+        background-position: 315px 0px;    
+
+    }  
+}
+
+
+
+@media screen and (max-width: 767px) {
+
+
+
+    .slider {
+
+        background: url(../../images/color-variations/green/sprites.png) no-repeat;
+
+        background-position: -2950px 0px;
+
+    }
+
+    
+
+    
+
+    .slider,  .slider-small {
+
+        background: url(../../images/color-variations/green/sprites.png) no-repeat;
+
+        background-position: -2950px 0px;
+
+    }
+
+    
+
+    .cube-first, .cube-last {
+
+        background: url(../../images/color-variations/green/sprites.png);
+
+            background-position: 0 -824px;
+
+    }
+
+    .cube-middle {
+
+        background: url(../../images/color-variations/green/sprites.png);
+
+            background-position: -421px -824px;
+
+    }
+    
+    div.quote-right {
+
+        margin: 0 0 30px 0px;
+        padding: 0px 0 0px 40px;
+        float: right;
+        width: 270px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+    }
+
+    .blog div.quote-right, 
+    .content div.quote-right {
+
+        margin: 5px 0 30px 0;
+
+        padding: 5px 0 5px 35px !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: right;
+
+        width: 225px;
+
+    }
+
+    div.quote-left {
+
+        margin: 0 0 30px 0;
+        padding: 0px 50px 0px 0;
+        float: none;
+        width: 300px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+        background-position: 280px 30px;
+
+    }
+    
+    
+    .blog div.quote-left, 
+    .content div.quote-left {
+
+        margin: 5px 25px 30px 0;
+
+        padding: 0 45px 0 0 !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: left;
+
+        width: 200px;
+
+        background-position: 200px 0px;    
+
+    }   
+}
+
+
+
+
+
+@media screen and (max-width: 400px) {
+
+        
+
+        .slider {
+
+            background: url(../../images/color-variations/green/sprites.png) no-repeat;
+
+            background-position: -3450px 0px;
+
+        }
+
+        
+
+        .slider-small {
+
+            background: url(../../images/color-variations/green/sprites.png) no-repeat;
+
+            background-position: -3450px 0px;
+
+        }
+
+    div.quote-right {
+
+        margin: 0 0 30px 0px;
+        padding: 0px 0 0px 30px;
+        float: right;
+        width: 210px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+    }
+
+    .blog div.quote-right, 
+    .content div.quote-right {
+
+        margin: 5px 0 30px 0;
+
+        padding: 5px 0 5px 25px !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: right;
+
+        width: 155px;
+
+    }
+
+    div.quote-left {
+
+        margin: 0 0 30px 0;
+        padding: 0px 50px 0px 0;
+        float: none;
+        width: 230px;
+        font-size: 13px;
+        color: rgb(112, 112, 112);
+        font-family: 'PT Sans', sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+        background-position: 230px 30px;
+
+    }
+    
+    
+    .blog div.quote-left, 
+    .content div.quote-left {
+
+        margin: 5px 25px 30px 0;
+
+        padding: 0 45px 0 0 !important;
+
+        background: url(../../images/color-variations/green/quoteLight.png) no-repeat;
+
+        float: left;
+
+        width: 155px;
+
+        background-position: 160px 0px;    
+
+    }     
+
+}
