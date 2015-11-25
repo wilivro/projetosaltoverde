@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projeto Salto Verde &#187; news</title>
+	<atom:link href="http://www.projetosaltoverde.com.br/?feed=rss2&#038;tag=news" rel="self" type="application/rss+xml" />
+	<link>http://www.projetosaltoverde.com.br</link>
+	<description>Uma disputa a favor da vida</description>
+	<lastBuildDate>Mon, 27 Oct 2014 20:36:55 +0000</lastBuildDate>
+	<language>pt-BR</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0</generator>
+	<item>
+		<title>Lorem ipsum dolor sit amet, consectetur adipiscing elit</title>
+		<link>http://www.projetosaltoverde.com.br/?p=396</link>
+		<comments>http://www.projetosaltoverde.com.br/?p=396#comments</comments>
+		<pubDate>Tue, 28 Aug 2012 07:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[wilivro]]></dc:creator>
+				<category><![CDATA[Samples]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[tags]]></category>
+
+		<guid isPermaLink="false">http://www.astudio.si/preview/blocked-wp/?p=396</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper &#8230; <a href="http://www.projetosaltoverde.com.br/?p=396">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+				<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus .Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl.
+
+<span id="more-396"></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus .Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+<div class="quote-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus .Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl.]]></content:encoded>
+			<wfw:commentRss>http://www.projetosaltoverde.com.br/?feed=rss2&#038;p=396</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

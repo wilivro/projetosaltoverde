@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre Projeto Salto Verde</title>
+	<atom:link href="http://www.projetosaltoverde.com.br/?feed=comments-rss2" rel="self" type="application/rss+xml" />
+	<link>http://www.projetosaltoverde.com.br</link>
+	<description>Uma disputa a favor da vida</description>
+	<lastBuildDate>Thu, 02 Oct 2014 12:32:34 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.0</generator>
+	<item>
+		<title>Comentário sobre Olá, mundo! por Sr. WordPress</title>
+		<link>http://www.projetosaltoverde.com.br/?p=1#comment-1</link>
+		<dc:creator><![CDATA[Sr. WordPress]]></dc:creator>
+		<pubDate>Thu, 02 Oct 2014 12:32:34 +0000</pubDate>
+		<guid isPermaLink="false">http://www.projetosaltoverde.com.br/?p=1#comment-1</guid>
+		<description><![CDATA[Olá, Isto é um comentário.
+Para excluir um comentário, faça o login e veja os comentários de posts. Lá você terá a opção de editá-los ou excluí-los.]]></description>
+		<content:encoded><![CDATA[<p>Olá, Isto é um comentário.<br />
+Para excluir um comentário, faça o login e veja os comentários de posts. Lá você terá a opção de editá-los ou excluí-los.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentário sobre Lorem ipsum dolor sit amet, consectetur adipiscing elit por admin</title>
+		<link>http://www.projetosaltoverde.com.br/?p=396#comment-10</link>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 05 Sep 2012 11:12:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.astudio.si/preview/blocked-wp/?p=396#comment-10</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]]></description>
+		<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eget velit nisl. Nulla semper velit vitae libero faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
